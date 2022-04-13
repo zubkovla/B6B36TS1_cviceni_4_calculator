@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de5c5138-a130-4b96-b89a-e88bbfb397a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZG65zgHcVLU7Cvw65Wg5MeUjIZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/cz/cvut/fel/ts1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Oxygen" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.11389524" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.FooTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ts1-cv04-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fel.ts1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fel.ts1" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fel.ts1.FooTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooTest.exceptionThrownTest_exceptionThrown_exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ts1-cv04-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fel.ts1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fel.ts1" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fel.ts1.FooTest" />
+      <option name="METHOD_NAME" value="exceptionThrownTest_exceptionThrown_exception" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooTest.returnNumber_returnsNumber_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ts1-cv04-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fel.ts1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fel.ts1" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fel.ts1.FooTest" />
+      <option name="METHOD_NAME" value="returnNumber_returnsNumber_5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FooTest" />
+        <item itemvalue="JUnit.FooTest.exceptionThrownTest_exceptionThrown_exception" />
+        <item itemvalue="JUnit.FooTest.returnNumber_returnsNumber_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de5c5138-a130-4b96-b89a-e88bbfb397a3" name="Default Changelist" comment="" />
+      <created>1584452904549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584452904549</updated>
+      <workItem from="1584452910660" duration="4865000" />
+      <workItem from="1585039137150" duration="1967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="-876" key="#Project_Structure" timestamp="1584457195576">
+      <screen x="-575" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="770" y="-876" key="#Project_Structure/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584457195576" />
+    <state x="987" y="-976" key="#Project_Structure/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584454935158" />
+    <state x="784" y="-937" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584454530474">
+      <screen x="-575" y="-1057" width="2560" height="1015" />
+    </state>
+    <state x="784" y="-937" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584454530474" />
+    <state x="779" y="-874" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584454866304">
+      <screen x="-575" y="-1057" width="2560" height="1015" />
+    </state>
+    <state x="779" y="-874" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584454866304" />
+    <state x="1058" y="-854" width="367" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584453948162">
+      <screen x="-575" y="-1057" width="2560" height="1015" />
+    </state>
+    <state x="1058" y="-854" width="367" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584453948162" />
+    <state width="1734" height="194" key="GridCell.Tab.0.bottom" timestamp="1585041041681">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1584456078588">
+      <screen x="-575" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584456078588" />
+    <state width="1407" height="200" key="GridCell.Tab.0.bottom/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584458828037" />
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584455406841" />
+    <state width="1734" height="194" key="GridCell.Tab.0.bottom/0.23.2560.1015@0.23.2560.1015" timestamp="1585041041681" />
+    <state width="1734" height="194" key="GridCell.Tab.0.center" timestamp="1585041041680">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1584456078587">
+      <screen x="-575" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.center.inPresentationMode/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584456078587" />
+    <state width="1407" height="200" key="GridCell.Tab.0.center/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584458828036" />
+    <state width="1238" height="183" key="GridCell.Tab.0.center/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584455406837" />
+    <state width="1734" height="194" key="GridCell.Tab.0.center/0.23.2560.1015@0.23.2560.1015" timestamp="1585041041680" />
+    <state width="1734" height="194" key="GridCell.Tab.0.left" timestamp="1585041041679">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1584456078587">
+      <screen x="-575" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.left.inPresentationMode/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584456078587" />
+    <state width="1407" height="200" key="GridCell.Tab.0.left/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584458828035" />
+    <state width="1238" height="183" key="GridCell.Tab.0.left/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584455406833" />
+    <state width="1734" height="194" key="GridCell.Tab.0.left/0.23.2560.1015@0.23.2560.1015" timestamp="1585041041679" />
+    <state width="1734" height="194" key="GridCell.Tab.0.right" timestamp="1585041041680">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1584456078588">
+      <screen x="-575" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.right.inPresentationMode/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584456078588" />
+    <state width="1407" height="200" key="GridCell.Tab.0.right/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584458828037" />
+    <state width="1238" height="183" key="GridCell.Tab.0.right/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584455406839" />
+    <state width="1734" height="194" key="GridCell.Tab.0.right/0.23.2560.1015@0.23.2560.1015" timestamp="1585041041680" />
+    <state x="867" y="-827" key="SettingsEditor" timestamp="1584457251378">
+      <screen x="-575" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="867" y="-827" key="SettingsEditor/0.23.1280.735/-575.-1057.2560.1057@-575.-1057.2560.1057" timestamp="1584457251378" />
+    <state x="979" y="-917" key="SettingsEditor/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584454950356" />
+    <state x="1269" y="-823" key="chooseDestDirectoryDialog" timestamp="1584454027834">
+      <screen x="-575" y="-1057" width="2560" height="1015" />
+    </state>
+    <state x="1269" y="-823" key="chooseDestDirectoryDialog/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584454027834" />
+    <state width="437" height="172" key="javadoc.popup.new" timestamp="1585040647057">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state width="437" height="172" key="javadoc.popup.new/0.23.2560.1015@0.23.2560.1015" timestamp="1585040647057" />
+    <state x="521" y="-845" key="new project wizard" timestamp="1584454787499">
+      <screen x="-575" y="-1057" width="2560" height="1015" />
+    </state>
+    <state x="521" y="-845" key="new project wizard/0.23.1280.777/-575.-1057.2560.1015@-575.-1057.2560.1015" timestamp="1584454787499" />
+    <state x="1061" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1585039419171">
+      <screen x="0" y="23" width="2560" height="1015" />
+    </state>
+    <state x="1061" y="247" width="670" height="676" key="search.everywhere.popup/0.23.2560.1015@0.23.2560.1015" timestamp="1585039419171" />
+  </component>
+</project>
